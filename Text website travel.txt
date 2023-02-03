@@ -6,9 +6,9 @@ home__data-title
 Explore The <br> Best <b>Beautiful <br> Beaches</b>
 
 home__social
-https://www.facebook.com/
-https://www.instagram.com/
-https://twitter.com/
+https://www.instagram.com/prince_klaus1/
+https://www.facebook.com/clausse.tomas
+https://wa.me/+258864188526
 
 home__info-title
 5 best places to visit
@@ -19,7 +19,7 @@ section__title
 More Information <br> About The Best Beaches
 
 about__description
-You can find the most beautiful and pleasant places at the best prices with special discounts, you choose the place we will guide you all the way to wait, get your place now.
+Aloha is a Luxury Executive experience that comprises, dance, gastronomy, businers discussions, dance and school management lectures, visit to pristige destinations in Mozambique. Join us in setting in motion a new Year of sucess in your life and business, get your place now.
 
 * DISCOVER
 section__title
@@ -40,39 +40,68 @@ Tourist <br> Destination
 
 * VIDEO
 section__title
-Video Tour
+What to Expect
 
 video__description
-Find out more with our video of the most beautiful and pleasant places for you and your family.
+Find out more with our video, a beautiful trip from Vilanculos - Bazaruto <br>
+a pleasant places for you and your family.
 
 
 * PLACES
 section__title
-Choose Your Place
+What to expate
+
+Theme parties 
+
+Live music
+
+Workshops and pitch meetings
+
+Bazaruto Trip
+
+Brakfast and dinner 
+
+Transportation
 
 * SUBSCRIBE
 section__title
-Subscribe Our <br> Newsletter
+Get updated <br> 
+in new events
 
 subscribe__description
-Subscribe to our newsletter and get a special 30% discount.
+Subscribe to our newsletter and get a special 5% discount.
+
 
 * FOOTER
 footer__description
-Travel you choose the <br> destination, we offer you the <br> experience.
+ALORA Setting in motion
+<br> a new year of sucess in your life and business.
 
 footer__social
-https://www.facebook.com/
-https://www.instagram.com/
+https://www.facebook.com/clausse.tomas
+https://www.instagram.com/prince_klaus1/
 https://twitter.com/
 https://www.youtube.com/
 
 
 footer__copy
-&#169; 2021 Bedimcode. All rigths reserved.
+&#169; 2021 Alora. All rigths reserved.
 
 footer__terms-link
 Terms & Agreements
 Privacy Policy
 
 
+
+============================Gooogle Form=============================================================================
+
+
+
+
+Why you filling this from
+
+As most of our attends are comming from a 
+
+
+
+<style> a { color: aliceblue;  } </style>
