@@ -458,6 +458,21 @@ input {
   overflow: var(--img-hidden);
 }
 
+section#discover .discover__data span {
+  border: 1px solid red;
+  font-weight: 0px;
+  font-size: 0px;
+  position: absolute;
+  bottom: 10px;
+}
+
+
+section#discover .discover__title {
+  position: relative;
+  bottom: 10px;
+  top: -1rem;
+}
+
 .discover__data {
   position: absolute;
   bottom: 1.5rem;
