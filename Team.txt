@@ -1,0 +1,39 @@
+                <div id="team">
+                    <div class="containerteam">
+                       
+                        <div class="rowcontainer">
+                            <div class="about-col-1">
+                                 <img src="/assets/img/team.png">
+                            </div>
+
+                            <div class="about-col-2">
+                                <h1>Luis carlos</h1>
+                            </div>>
+                        </div>
+
+                            <p class="country"></p>
+                            <p>Luis carlos is a dancer with 25 year of experience in kizomba, salsa, and baixa relate</p>
+                        </div>
+
+                        <!-- <div class="tab-titles">
+                            <p class="tab-link active-link" onclick="opentab('experience')" >experience</p> 
+                            <p class="tab-link active-link" onclick="opentab('contact')">contact</p>
+                        </div>
+
+                        <div class="tab-contents active-tab" id="experience">
+                            <ul>
+                                <li><span>2021-2023</span><br>kizomba</li>
+                                <li><span>2019-2022</span><br>pazada</li>
+                                <li><span>2010-2019</span><br>salsa</li>
+                              </ul>
+                        </div>
+
+                        <div class="tab-contents active-tab" id="contact">
+                            <ul>
+                              <li><span>contry</span><br>kizomba</li>
+                              <li><span>number</span><br>pazada</li>
+                              <a href="#"><li><span>email</span><br>salsa</li></a>
+                            </ul>
+                        </div>
+                    </div> -->
+                </div>
