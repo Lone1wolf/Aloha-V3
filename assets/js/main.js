@@ -125,6 +125,7 @@ sr.reveal(`.home__data, .home__social-link, .home__info,
            .experience__data, .experience__overlay,
            .place__card,
            .sponsor__content,
+           .terms-services,
            .footer__data, .footer__rights`,{
     origin: 'top',
     interval: 100,
