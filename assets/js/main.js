@@ -126,6 +126,7 @@ sr.reveal(`.home__data, .home__social-link, .home__info,
            .place__card,
            .sponsor__content,
            .terms-services,
+           .about-col-1,
            .footer__data, .footer__rights`,{
     origin: 'top',
     interval: 100,
@@ -139,6 +140,7 @@ sr.reveal(`.about__data,
 
 sr.reveal(`.about__img-overlay, 
            .video__content,
+           .about-col-2,
            .subscribe__form`,{
     origin: 'right',
     interval: 100,
