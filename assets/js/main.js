@@ -134,6 +134,7 @@ sr.reveal(`.home__data, .home__social-link, .home__info,
 
 sr.reveal(`.about__data, 
            .video__description,
+           .terms,
            .subscribe__description`,{
     origin: 'left',
 })
